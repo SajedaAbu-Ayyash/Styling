@@ -1,0 +1,25 @@
+h1 {
+    background-color: black;
+    color: white;
+    font-family: cursive;
+
+}
+
+.cloud { 
+    color: aqua;
+}
+
+h2 {
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-family: cursive;
+}
+
+h3 {
+    background-color: cornflowerblue;
+    text-align: right;
+    text-decoration: underline;
+    font-family: cursive;
+}
